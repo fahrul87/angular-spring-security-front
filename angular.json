@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-spring-security-front"
+    }
+  },
+  "defaultProject": "angular-spring-security-front",
+  "cli": {
+    "analytics": "cca40b54-24f7-4766-8f20-b069bfe3ab2f"
+  }
 }
